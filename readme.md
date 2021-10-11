@@ -1,9 +1,9 @@
 ## Hi there, I'm Uzeyir from Azerbaijan 🙂
 
 
-## I'm a student, Chess player and Science lover!
+## I'm a Front-End Dev, Student, Chess player and Science lover!
 
-- 📓 I'm studying at university
+- 📓 I'm studying at Azerbaijan Economics University
 - 💻 I'm currently at a intern program
 - 📈 I love learning new things
 
